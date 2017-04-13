@@ -126,7 +126,7 @@ webpack --config webpack.config.js
 
 ## Demo01: Entry file ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo01))
 
-## Demo02: Tree-shaking ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo02))
+## Demo02: Tree shaking ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo02))
 
 ***
 
