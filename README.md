@@ -107,27 +107,10 @@ webpack --config webpack.config.js
 
 1. [Entry file - 入口](#demo01-entry-file-source)
 1. [Tree-shaking - 消除无用的代码（dead code）](#demo02-tree-shaking-source)
-1. [Multiple entry files - 多入口](#demo02-multiple-entry-files-source)
-1. [Babel-loader - 转换器](#demo03-babel-loader-source)
-1. [CSS-loader](#demo04-css-loader-source)
-1. [Image loader](#demo05-image-loader-source)
-1. [CSS Module - css转换器，查询参数?module 的应用](#demo06-css-module-source)
-1. [UglifyJs Plugin - 插件(压缩)](#demo07-uglifyjs-plugin-source)
-1. [HTML Webpack Plugin and Open Browser Webpack Plugin - 插件(html处理、打开浏览器)](#demo08-html-webpack-plugin-and-open-browser-webpack-plugin-source)
-1. [Environment flags - 开发\发布环境标识](#demo09-environment-flags-source)
-1. [Code splitting - 代码分割](#demo10-code-splitting-source)
-1. [Code splitting with bundle-loader](#demo11-code-splitting-with-bundle-loader-source)
-1. [Common chunk - 通用块](#demo12-common-chunk-source)
-1. [Vendor chunk - 第三方依赖块](#demo13-vendor-chunk-source)
-1. [Exposing Global Variables - 导出全局变量](#demo14-exposing-global-variables-source)
-1. [Hot Module Replacement - 模块热替换](#demo15-hot-module-replacement-source)
-1. [React router - React路由器](#demo16-react-router-source)
 
 ## Demo01: Entry file ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo01))
 
 ## Demo02: Tree shaking ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo02))
-
-## Demo02: Multiple entry files ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo02))
 
 ***
 
