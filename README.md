@@ -106,8 +106,7 @@ webpack --config webpack.config.js
 ## Index
 
 1. [Entry file - 入口](#demo01-entry-file-source)
-1. [Tree shaking - 消除无用的代码（dead code）](#demo02-tree-shaking)
-
+1. [Tree-shaking - 消除无用的代码（dead code）](#demo02-tree-shaking-source)
 1. [Multiple entry files - 多入口](#demo02-multiple-entry-files-source)
 1. [Babel-loader - 转换器](#demo03-babel-loader-source)
 1. [CSS-loader](#demo04-css-loader-source)
@@ -127,6 +126,8 @@ webpack --config webpack.config.js
 ## Demo01: Entry file ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo01))
 
 ## Demo02: Tree shaking ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo02))
+
+## Demo02: Multiple entry files ([source](https://github.com/ruanyf/webpack-demos/tree/master/demo02))
 
 ***
 
